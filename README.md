@@ -28,13 +28,6 @@ Everything runs in the browser. Nothing you type is sent anywhere.
 
 No build step. Download the repo and open `index.html` in a browser.
 
-## Publish with GitHub Pages
-
-1. Create a new repository and upload `index.html`, `README.md`, and `LICENSE`.
-2. Go to **Settings → Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
-4. After a minute, your site is live at `https://nidheesh1205.github.io/codeassist-demo/`.
-
 ## Add your own sample notes
 
 1. Add an entry to the `SAMPLES` array in `index.html` (an `id`, a `label`, and the note `text`).
